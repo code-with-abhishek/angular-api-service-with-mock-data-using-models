@@ -1,0 +1,22 @@
+{"products":[
+    {"id":1,
+    "name":"Mackbook Air",
+    "quantity": 5
+    },
+    {"id":2,
+        "name":"Lenovo Ideapad",
+        "quantity":15
+    },
+    {"id":3,
+        "name":"Acer Swift",
+        "quantity":25
+    },
+    {"id":4,
+        "name":"Dell Inspiron",
+        "quantity":15
+    },
+    {"id":5,
+        "name":"Asus Vivobook",
+        "quantity":20
+    }
+]}
